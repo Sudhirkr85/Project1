@@ -1,0 +1,51 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+}
+.item-card {
+  width: 200px;
+  text-align: center;
+  padding: 5px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+ 
+}
+.item-card:hover{
+    transform: scale(1.1);
+    transition: 0.3s;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+.add-to-bag {
+  background-color: #460feb;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+  font-weight: bold;
+  width: 100%;
+}
+.price .original-price {
+  text-decoration: line-through;
+  color: #949292;
+  font-size: 14px;
+}
+.price .discount {
+  color: red;
+  font-size: 14px;
+}
+.item-card p {
+  font-size: 14px;
+  color: #555;
+  margin: 5px 0;
+}
+.items-container {
+  margin-top: 20px;
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+  justify-content: center;
+}
