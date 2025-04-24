@@ -52,3 +52,20 @@ header .bag a{
     color: white;
     font-size: 18px;
 }
+.bag{
+    margin-right: 20px;
+    position: relative;
+}
+.bag span{
+    background-color: red;
+    border-radius: 50%;
+    padding:0 4px;
+    position: absolute;
+    color: #fff;
+    font-weight: 700;
+    top: -10px;
+    border: none;
+    display: none;
+    right: -10px;
+
+}

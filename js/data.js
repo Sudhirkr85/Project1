@@ -2,6 +2,7 @@
 
 let items = [
     {
+      id:1,
       name: "GARTH ",
       description: "Unisex Rectangle Sunglasses",
       discountedPrice: 1199,
@@ -11,6 +12,7 @@ let items = [
         "https://assets.myntassets.com/q_95,w_172,c_limit,f_webp,fl_progressive/assets/images/24791560/2023/9/12/59bd1692-67ab-44f3-8788-849aa9b30fc01694532585722GARTHUnisexBlackLensBlackRectangleSunglasseswithUVProtectedL1.jpg",
     },
     {
+      id:2,
       name: "Puma",
       description: "Unisex Rectangle Sunglasses",
       discountedPrice: 1099,
@@ -20,6 +22,7 @@ let items = [
         "https://assets.myntassets.com/q_95,w_172,c_limit,f_webp,fl_progressive/assets/images/15329892/2023/10/25/0130b585-b8a4-4e8d-9785-91cfaeebf37b1698232282990-Puma-Unisex-Black-Archive-Logo-Pure-Cotton-Baseball-Cap-9521-12.jpg",
     },
     {
+      id:3,
       name: "Puma",
       description: "Unisex Rectangle Sunglasses",
       discountedPrice: 1099,
@@ -29,6 +32,7 @@ let items = [
         "https://assets.myntassets.com/q_95,w_172,c_limit,f_webp,fl_progressive/assets/images/17844970/2024/11/23/34a3546a-9fed-402a-b457-9612678405fd1732335929871-Vincent-Chase-by-Lenskart-Unisex-Green-Wayfarer-Sunglasses-w-1.jpg",
     },
     {
+      id:4,
       name: "Puma",
       description: "Unisex Rectangle Sunglasses",
       discountedPrice: 1099,
@@ -38,6 +42,7 @@ let items = [
         "https://assets.myntassets.com/q_95,w_172,c_limit,f_webp,fl_progressive/assets/images/productimage/2020/7/8/27e8f9ad-eb51-4574-881e-1a51d108443d1594165684258-1.jpg",
     },
     {
+      id:5,
       name: "Puma",
       description: "Unisex Rectangle Sunglasses",
       discountedPrice: 1099,
